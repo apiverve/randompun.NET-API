@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>APIVerve.API.RandomPun</Title>
+    <Version>1.0.0</Version>
+    <Authors>APIVerve</Authors>
+    <Company>APIVerve</Company>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+    <PackageReadmeFile>Readme.md</PackageReadmeFile>
+    <PackageProjectUrl>https://apiverve.com/marketplace/api/randompun</PackageProjectUrl>
+    <SignAssembly>False</SignAssembly>
+    <Description>Random Pun is a simple tool for getting random puns. It returns a random pun from a collection of puns.</Description>
+    <RepositoryUrl>https://github.com/apiverve/randompun-NET</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>random pun; random pun api; random pun tool; random pun software; random pun service; random pun library; random pun sdk; random pun code; random pun script; random pun program; random pun application; random pun app; random pun utility; random pun helper; random pun helper tool; random pun helper software; random pun helper service; random pun helper library; random pun helper sdk; random pun helper code; random pun helper script; random pun helper program; random pun helper application; random pun helper app; random pun helper tool; random pun helper utility; random pun helper</PackageTags>
+    <Copyright>©2024 APIVerve. All Rights Reserved</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="Readme.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
