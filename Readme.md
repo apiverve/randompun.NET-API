@@ -92,9 +92,9 @@ if(response.error != null) {
   "status": "ok",
   "error": null,
   "data": {
-    "category": "Farmers",
-    "rating": 4,
-    "pun": "A young man from the city went to visit his farmer uncle. For the first few days, the uncle showed him the usual things - chickens, cows, crops, etc. After three days, however, it was obvious that the nephew was getting bored, and the uncle was running out of things to amuse him with. Finally, the uncle decided to give them a real treat. 'Why don't you grab a gun, take my prized hunting dogs, and go have some fun shooting?' This seemed to cheer the nephew up, and with enthusiasm, off he went, dogs in trail. After a few hours, the nephew returned. 'How did you enjoy that?' asked the uncle. 'It was great!' exclaimed the nephew. 'Got any more dogs?'"
+    "category": "Lawyers",
+    "rating": 3,
+    "pun": "A local United Way office realized that the organization had never received a donation from the town's most successful lawyer. The person in charge of contributions called him to persuade him to contribute.'Our research shows that out of a yearly income of at least $500,000, you give not a penny to charity. Wouldn't you like to give back to the community in some way?'The lawyer mulled this over for a moment and replied, 'First, did your research also show that my mother is dying after a long illness, and has medical bills that are several times her annual income?'Embarrassed, the United Way rep mumbled, 'Um ... no.'The lawyer interrupts, 'or that my brother, a disabled veteran, is blind and confined to a wheelchair?'The stricken United Way rep began to stammer out an apology, but was interrupted again.'or that my sister's husband died in a traffic accident,' the lawyer's voice rising in indignation, 'leaving her penniless with three children?!'The humiliated United Way rep, completely beaten, said simply, 'I had no idea...'On a roll, the lawyer cut him off once again, 'So if I don't give any money to them, why should I give any to you?'"
   }
 }
 ```
