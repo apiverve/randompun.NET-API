@@ -10,7 +10,7 @@ public class data
     public string category { get; set; }
 
     [JsonProperty("rating")]
-    public double rating { get; set; }
+    public int rating { get; set; }
 
     [JsonProperty("pun")]
     public string pun { get; set; }
